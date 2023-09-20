@@ -1,4 +1,4 @@
-# Moonlight_PC
+# MMORPG_auto_PC
 
 ## 腳本安裝與開啟 ##
 
@@ -36,7 +36,7 @@
 - 決鬥場的愛娜必須放在第二頁
 
 Purposes and features of the gamebot:
-I programmed a gamebot (link for codes) to execute tedious daily tasks in "Moonlight Sculptor," an MMORPG game. With my gamebot, players do not waste their time doing daily routines, such as getting rewards, guild hunting, raids, and dungeons. The gamebot has the following features:
+I programmed a gamebot (link for codes) to execute tedious daily tasks in "M___l____ S____t__ ," an MMORPG game. With my gamebot, players do not waste their time doing daily routines, such as getting rewards, guild hunting, raids, and dungeons. The gamebot has the following features:
 User interface: for users who do not know how to program to read and set up program parameters easily.
 Background clicking and typing: allows users to keep using their computer or playing multiple characters (for "farming game items").
 Automatical task executions : (1) resurrecting character, (2) accepting and sending team invitation, (3) exchange store shopping, (4) daily raid, (5) getting daily rewards, (6) daily coinstore shopping, (7) daily guild hunt, (8) timed dungeon, (9) daily arena.
