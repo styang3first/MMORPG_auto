@@ -4,8 +4,8 @@ except:
     exec(open('function_PC.py').read())
 if is_admin():
     try:
-        self=Game_obj()
-        self.gameloop()
+        self=Game_obj(title='Moonlight_Global')
+        self.fishingloop()
     except Exception as e:
         shell = win32com.client.Dispatch("WScript.Shell")
         shell.SendKeys('%')                
